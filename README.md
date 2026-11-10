@@ -1,3 +1,3 @@
 # Quan-ly-do-an-QLDAPM
 
-Đồ án quản lý các kiểu
+Tổng hợp các đồ án môn quản lý dự án
